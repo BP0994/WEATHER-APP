@@ -12,6 +12,8 @@ body {
   height: 90dvh;
   background: url(./assests/background.jpg);
   background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .card {
@@ -66,7 +68,8 @@ body {
 
 @media screen and (max-width: 600px) {
   .search {
-    width: 250px;
+    max-width: 150px;
+    margin: auto;
     position: absolute;
     margin-bottom: 15px;
 
