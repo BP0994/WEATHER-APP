@@ -8,8 +8,6 @@
 }
 
 body {
-  width: 95dvw;
-  height: 90dvh;
   background: url(./assests/background.jpg);
   background-position: center center;
   background-size: cover;
