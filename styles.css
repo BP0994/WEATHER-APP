@@ -12,6 +12,7 @@ body {
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
+  background-color: rgb(2, 8, 36);
 }
 
 .card {
